@@ -11,7 +11,7 @@ Whatever resources I’m sharing is based on my view. For example if it’s a yo
 
 ## AWS
 
- - [AWS - VPC Demo, Public & Private Subnets, Route Tables, Internet & NAT Gateways]([https://www.youtube.com/watch?v=tD9vDv0uyI8](https://www.youtube.com/watch?v=tD9vDv0uyI8))
+ - [AWS - VPC Demo, Public & Private Subnets, Route Tables, Internet & NAT Gateways](https://www.youtube.com/watch?v=tD9vDv0uyI8)
 
 
 **Happy Learning :sunglasses:**
