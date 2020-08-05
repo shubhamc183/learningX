@@ -21,6 +21,8 @@ Whatever resources I’m sharing is based on my view. For example if it’s a yo
 ## Prometheus
 
  - Blogs by the makers of Prometheus https://www.robustperception.io/
+ - Prometheus-Basics https://github.com/yolossn/Prometheus-Basics
+ - Awesome Prometheus alerts https://awesome-prometheus-alerts.grep.to/
 
 
 ## ElasticSearch
